@@ -1,0 +1,74 @@
+---
+layout: page
+title: Welcome
+tags: [bhushan, atote, home, warwick, interpretability, computer vision, machine learning, natural language processing, xAI, graduate]
+modified: 2023-04-07T20:53:07.573882-04:00
+comments: false
+---
+
+Hi!
+
+I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/siplab/) at the [Univeristy of Warwick](https://warwick.ac.uk/), Under the supervision of [Dr.Victor Sanchez](https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html). My research interests are focused on Machine Learning, Explainable Artificial Intelligence, and Computer Vision. 
+
+My PhD research receives funding from the Government of India under the scheme of [National Overseas Scholarship](https://nosmsje.gov.in/). I obtained my master's degree from [Maharashtra Institute of Technology, India](https://mitwpu.edu.in/), and completed my bachelor's studies at [Rashtrasant Tukadoji Maharaj Nagpur University, India](https://nagpuruniversity.ac.in/).
+
+
+----
+
+<h3 align="center">News</h3>
+<table class='news-table'>
+    <col width="15%">
+    <col width="85%">
+    <tr>
+        <td valign="top"><strong>[Nov 2020]</strong></td>
+        <td>Awarded the prestigious 
+        <a href="https://www.ece.cmu.edu/student-resources/commencement-awards.html">
+        A. G. Milnes Award</a>, 2020 by ECE, Carnegie Mellon for my thesis
+        </td>
+    </tr>
+</table>
+
+----
+
+<h3 align="center">Affiliations</h3>
+<table align="center" class='affl-pic'>
+    <col width="20%">
+    <col width="80%">
+    <tr>
+        <td>
+            <a href="http://warwick.ac.uk/">
+            <img src="/images/warwick.png"></a>
+        </td>
+        <td>
+            <a href="http://mitwpu.edu.in/">
+            <img src="/images/mit.png"></a>
+        </td>
+        <td>
+            <a href="http://nagpuruniversity.ac.in/">
+            <img src="/images/nag_uni.png"></a>
+        </td>
+    <tr>
+    <tr>
+        <td>The University of Warwick<br>2022 - Present</td>
+        <td>MIT Pune, Inida<br>2014-2016</td>
+        <td>RTMNU, India<br>2009-2013</td>
+    </tr>
+</table>
+<table align="center" class='affl-pic'>
+    <col width="20%">
+    <col width="80%">   
+    <tr>
+        <td>
+            <a href="http://nosmsje.gov.in/">
+            <img src="/images/india.jpg"></a>
+        </td>
+        <td>
+            <a href="http://www.capgemini.com/in-en/careers/lets-connect/our-offices/capgemini-pune/">
+            <img src="/images/cg.png"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>National Overseas Scholarship, India</td>
+        <td>CapGemini, Inida<br>2018-2021</td>
+    </tr>
+</table>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text"></title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="https://bsatote.github.io//feed.xml" />
+<link rel="alternate" type="text/html" href="https://bsatote.github.io/" />
+<updated>2023-04-07T21:36:27+01:00</updated>
+<id>https://bsatote.github.io//</id>
+<author>
+  <name>Bhushan Atote</name>
+  <uri>https://bsatote.github.io//</uri>
+  <email>bhushan.atote@warwick.ac.uk</email>
+</author>
+
+</feed>

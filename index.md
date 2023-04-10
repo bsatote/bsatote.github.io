@@ -38,9 +38,25 @@ My PhD research receives funding from the Government of India under the scheme o
 ----
 
 <h3 align="center">Affiliations</h3>
-<table align="center" class='affl-pic'>
-    <col width="10%">
-    <col width="90%">
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    td {
+        text-align: center;
+        vertical-align: middle;
+        padding: 10px;
+    }
+    img {
+        width: 100px;
+        height: 100px;
+    }
+</style>
+
+
+<table> 
     <tr>
         <td>
             <a href="http://warwick.ac.uk/">
@@ -60,7 +76,9 @@ My PhD research receives funding from the Government of India under the scheme o
         <td>MIT Pune, Inida<br>2014-2016</td>
         <td>RTMNU, India<br>2009-2013</td>
     </tr>
- 
+</table>
+
+<table>
     <tr>
         <td>
             <a href="http://nosmsje.gov.in/">

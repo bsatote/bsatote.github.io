@@ -39,8 +39,8 @@ My PhD research receives funding from the Government of India under the scheme o
 
 <h3 align="center">Affiliations</h3>
 <table align="center" class='affl-pic'>
-    <col width="20%">
-    <col width="80%">
+    <col width="15%">
+    <col width="85%">
     <tr>
         <td>
             <a href="http://warwick.ac.uk/">
@@ -48,7 +48,7 @@ My PhD research receives funding from the Government of India under the scheme o
         </td>
         <td>
             <a href="http://mitwpu.edu.in/">
-            <img src="/images/mit.png"></a>
+            <img src="/images/mit-1.jpg"></a>
         </td>
         <td>
             <a href="http://nagpuruniversity.ac.in/">
@@ -71,7 +71,7 @@ My PhD research receives funding from the Government of India under the scheme o
         </td>
         <td>
             <a href="http://www.capgemini.com/in-en/careers/lets-connect/our-offices/capgemini-pune/">
-            <img src="/images/cg.png"></a>
+            <img src="/images/cg-1.jpeg"></a>
         </td>
     </tr>
     <tr>

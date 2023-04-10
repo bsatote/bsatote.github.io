@@ -8,9 +8,9 @@ comments: false
 
 Hi!
 
-I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/siplab/) at the [Univeristy of Warwick](https://warwick.ac.uk/), Under the supervision of [Dr.Victor Sanchez](https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html). My research interests are focused on Machine Learning, Explainable Artificial Intelligence, and Computer Vision. 
+I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/siplab/) at the [Univeristy of Warwick](https://warwick.ac.uk/), under the supervision of [Dr. Victor Sanchez](https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html). My research interests are focused on Machine Learning, Explainable Artificial Intelligence, and Computer Vision. 
 
-My PhD research receives funding from the Government of India under the scheme of [National Overseas Scholarship](https://nosmsje.gov.in/). I obtained my master's degree from [Maharashtra Institute of Technology, India](https://mitwpu.edu.in/), and completed my bachelor's studies at [Rashtrasant Tukadoji Maharaj Nagpur University, India](https://nagpuruniversity.ac.in/).
+My PhD research receives funding from the Government of India under the scheme of [National Overseas Scholarship](https://nosmsje.gov.in/). I obtained my master's degree from [Maharashtra Institute of Technology, SPPU, India](https://mitwpu.edu.in/), and completed my bachelor's studies at [Nagpur University, India](https://nagpuruniversity.ac.in/).
 
 
 ----
@@ -20,11 +20,15 @@ My PhD research receives funding from the Government of India under the scheme o
     <col width="15%">
     <col width="85%">
     <tr>
-        <td valign="top"><strong>[Nov 2020]</strong></td>
+        <td valign="top"><strong>[Dec 2021]</strong></td>
         <td>Awarded the prestigious 
-        <a href="https://www.ece.cmu.edu/student-resources/commencement-awards.html">
-        A. G. Milnes Award</a>, 2020 by ECE, Carnegie Mellon for my thesis
+        <a href="https://nosmsje.gov.in">
+        National Overseas Scholarship</a>, 2021 by Government of India for my PhD
         </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[March 2022]</strong></td>
+        <td>Started PhD at Department of Computer Science at The University of Warwick</td>
     </tr>
 </table>
 
@@ -55,8 +59,8 @@ My PhD research receives funding from the Government of India under the scheme o
     </tr>
 </table>
 <table align="center" class='affl-pic'>
-    <col width="20%">
-    <col width="80%">   
+    <col width="15%">
+    <col width="85%">   
     <tr>
         <td>
             <a href="http://nosmsje.gov.in/">

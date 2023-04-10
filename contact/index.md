@@ -15,7 +15,7 @@ Email:
 
 Address:  
 
-CS 2.27, Dept. of Computer Science<br/>
+CS 2.27, Dept. of Computer Science,<br/>
 University of Warwick,<br/>
 Coventry CV4 7EZ,<br/> 
 England, UK

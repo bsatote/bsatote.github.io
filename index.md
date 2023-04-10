@@ -39,8 +39,8 @@ My PhD research receives funding from the Government of India under the scheme o
 
 <h3 align="center">Affiliations</h3>
 <table align="center" class='affl-pic'>
-    <col width="15%">
-    <col width="85%">
+    <col width="30%">
+    <col width="70%">
     <tr>
         <td>
             <a href="http://warwick.ac.uk/">
@@ -62,8 +62,8 @@ My PhD research receives funding from the Government of India under the scheme o
     </tr>
 </table>
 <table align="center" class='affl-pic'>
-    <col width="15%">
-    <col width="85%">   
+    <col width="30%">
+    <col width="70%">   
     <tr>
         <td>
             <a href="http://nosmsje.gov.in/">

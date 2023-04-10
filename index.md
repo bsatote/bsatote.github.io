@@ -46,10 +46,10 @@ My PhD research receives funding from the Government of India under the scheme o
             <a href="http://warwick.ac.uk/">
             <img src="/images/warwick.png"></a>
         </td>
-        %<td>
-         %   <a href="http://mitwpu.edu.in/">
-          %  <img src="/images/mit-1.jpg"></a>
-        %</td>
+        <!td>
+            <!a href="http://mitwpu.edu.in/">
+            <!img src="/images/mit-1.jpg"></a>
+        <!/td>
         <td>
             <a href="http://nagpuruniversity.ac.in/">
             <img src="/images/nag_uni.png"></a>
@@ -57,7 +57,7 @@ My PhD research receives funding from the Government of India under the scheme o
     <tr>
     <tr>
         <td>The University of Warwick<br>2022 - Present</td>
-        %<td>MIT Pune, Inida<br>2014-2016</td>
+        <!td>MIT Pune, Inida<br>2014-2016</td>
         <td>RTMNU, India<br>2009-2013</td>
     </tr>
 </table>
@@ -69,13 +69,13 @@ My PhD research receives funding from the Government of India under the scheme o
             <a href="http://nosmsje.gov.in/">
             <img src="/images/india.jpg"></a>
         </td>
-        %<td>
-         %   <a href="http://www.capgemini.com/in-en/careers/lets-connect/our-offices/capgemini-pune/">
-          %  <img src="/images/cg-1.jpeg"></a>
-        %</td>
+        <!td>
+            <!a href="http://www.capgemini.com/in-en/careers/lets-connect/our-offices/capgemini-pune/">
+            <!img src="/images/cg-1.jpeg"></a>
+        <!/td>
     </tr>
     <tr>
         <td>National Overseas Scholarship, India</td>
-        %<td>CapGemini, Inida<br>2018-2021</td>
+        <!td>CapGemini, Inida<br>2018-2021</td>
     </tr>
 </table>

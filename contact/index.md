@@ -8,13 +8,14 @@ comments: false
 
 You can contact me at :
 
-**Bhushan Atote**  
 Email:  
 
 * bhushan [dot] atote [at] warwick [dot] ac [dot] uk
 * bhushanatote2408 [at] gmail [dot] com
 
 Address:  
-WF16H - Whitefields,<br />
-University of Warwick,<br />
-CV4 7ES, Coventry, UK
+
+CS 2.27, Dept. of Computer Science<br/>
+University of Warwick,<br/>
+Coventry CV4 7EZ,<br/> 
+England, UK

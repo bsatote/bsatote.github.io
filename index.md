@@ -70,14 +70,13 @@ My PhD research receives funding from the Government of India under the scheme o
             <a href="http://nagpuruniversity.ac.in/">
             <img src="/images/nag_uni.png"></a>
         </td>
-    <tr>
+    </tr>
     <tr>
         <td>The University of Warwick<br>2022 - Present</td>
         <td>MIT Pune, Inida<br>2014-2016</td>
         <td>RTMNU, India<br>2009-2013</td>
     </tr>
 </table>
-
 <table>
     <tr>
         <td>

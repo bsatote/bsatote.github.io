@@ -28,7 +28,10 @@ My PhD research receives funding from the Government of India under the scheme o
     </tr>
     <tr>
         <td valign="top"><strong>[March 2022]</strong></td>
-        <td>Started PhD at Department of Computer Science at The University of Warwick</td>
+        <td>Started PhD at 
+        <a href="https://warwick.ac.uk/fac/sci/dcs/">
+        Department of Computer Science</a> at The University of Warwick
+        </td>
     </tr>
 </table>
 

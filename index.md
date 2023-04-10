@@ -60,22 +60,19 @@ My PhD research receives funding from the Government of India under the scheme o
         <td>MIT Pune, Inida<br>2014-2016</td>
         <td>RTMNU, India<br>2009-2013</td>
     </tr>
-</table>
-<table align="left" class='affl-pic'>
-    <col width="10%">
-    <col width="90%">   
+ 
     <tr>
         <td>
             <a href="http://nosmsje.gov.in/">
             <img src="/images/india.jpg"></a>
         </td>
-        <!td>
-            <!a href="http://www.capgemini.com/in-en/careers/lets-connect/our-offices/capgemini-pune/">
-            <!img src="/images/cg-1.jpeg"></a>
-        <!/td>
+        <td>
+            <a href="http://www.capgemini.com/in-en/careers/lets-connect/our-offices/capgemini-pune/">
+            <img src="/images/cg-1.jpeg"></a>
+        </td>
     </tr>
     <tr>
         <td>National Overseas Scholarship, India</td>
-        <!td>CapGemini, Inida<br>2018-2021</td>
+        <td>CapGemini, Inida<br>2018-2021</td>
     </tr>
 </table>

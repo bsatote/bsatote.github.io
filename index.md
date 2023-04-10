@@ -44,12 +44,12 @@ My PhD research receives funding from the Government of India under the scheme o
     <tr>
         <td>
             <a href="http://warwick.ac.uk/">
-            <img src="/images/warwick.png"></a>
+            <img src="/images/ww.png"></a>
         </td>
-        <!td>
-            <!a href="http://mitwpu.edu.in/">
-            <!img src="/images/mit-1.jpg"></a>
-        <!/td>
+        <td>
+            <a href="http://mitwpu.edu.in/">
+            <img src="/images/mit-1.jpg"></a>
+        </td>
         <td>
             <a href="http://nagpuruniversity.ac.in/">
             <img src="/images/nag_uni.png"></a>
@@ -57,7 +57,7 @@ My PhD research receives funding from the Government of India under the scheme o
     <tr>
     <tr>
         <td>The University of Warwick<br>2022 - Present</td>
-        <!td>MIT Pune, Inida<br>2014-2016</td>
+        <td>MIT Pune, Inida<br>2014-2016</td>
         <td>RTMNU, India<br>2009-2013</td>
     </tr>
 </table>

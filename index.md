@@ -39,22 +39,6 @@ My PhD research receives funding from the Government of India under the scheme o
 
 <h3 align="center">Affiliations</h3>
 
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    td {
-        text-align: center;
-        vertical-align: middle;
-        padding: 10px;
-    }
-    img {
-        width: 100px;
-        height: 100px;
-    }
-</style>
-
 
 <table> 
     <tr>

@@ -15,7 +15,7 @@ My PhD research receives funding from the Government of India under the scheme o
 
 ----
 
-<h3 align="left">News</h3>
+<h3 align="center">News</h3>
 <table class='news-table'>
     <col width="20%">
     <col width="80%">

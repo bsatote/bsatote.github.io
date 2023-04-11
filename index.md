@@ -20,17 +20,17 @@ My PhD research receives funding from the Government of India under the scheme o
     <col width="20%">
     <col width="80%">
     <tr>
-        <td valign="top"><strong>[Dec 2021]</strong></td>
-        <td>Awarded the prestigious 
-        <a href="https://nosmsje.gov.in">
-        National Overseas Scholarship</a>, 2021 by Government of India for my PhD
-        </td>
-    </tr>
-    <tr>
         <td valign="top"><strong>[March 2022]</strong></td>
         <td>Started PhD program at the 
         <a href="https://warwick.ac.uk/fac/sci/dcs/">
         Department of Computer Science</a>, The University of Warwick
+        </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Dec 2021]</strong></td>
+        <td>Awarded the prestigious 
+        <a href="https://nosmsje.gov.in">
+        National Overseas Scholarship</a>, 2021 by Government of India for my PhD
         </td>
     </tr>
 </table>

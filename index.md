@@ -60,8 +60,6 @@ My PhD research receives funding from the Government of India under the scheme o
         <td>MIT Pune, Inida<br>2014-2016</td>
         <td>RTMNU, India<br>2009-2013</td>
     </tr>
-</table>
-<table>
     <tr>
         <td>
             <a href="http://nosmsje.gov.in/">

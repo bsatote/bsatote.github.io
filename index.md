@@ -8,7 +8,7 @@ comments: false
 
 Hi!
 
-I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/siplab/) at the [Univeristy of Warwick](https://warwick.ac.uk/), under the supervision of [Dr. Victor Sanchez](https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html). My research interests are focused on Machine Learning, Explainable Artificial Intelligence, and Computer Vision. 
+I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/siplab/) at the [University of Warwick](https://warwick.ac.uk/), under the supervision of [Dr. Victor Sanchez](https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html). My research interests are focused on Machine Learning, Explainable Artificial Intelligence, and Computer Vision. 
 
 My PhD research receives funding from the Government of India under the scheme of [National Overseas Scholarship](https://nosmsje.gov.in/). I obtained my master's degree from [Maharashtra Institute of Technology, SPPU, India](https://mitwpu.edu.in/), and completed my bachelor's studies at [Nagpur University, India](https://nagpuruniversity.ac.in/).
 

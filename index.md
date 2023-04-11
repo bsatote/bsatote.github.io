@@ -40,7 +40,7 @@ My PhD research receives funding from the Government of India under the scheme o
 <h3 align="center">Affiliations</h3>
 
 
-<table> 
+<table align="center"> 
     <tr>
         <td>
             <a href="http://warwick.ac.uk/">

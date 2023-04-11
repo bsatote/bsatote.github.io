@@ -44,15 +44,15 @@ My PhD research receives funding from the Government of India under the scheme o
     <tr>
         <td>
             <a href="http://warwick.ac.uk/">
-            <img src="/images/ww.png"></a>
+            <img src="/images/ww.png" width="100" height="100"></a>
         </td>
         <td>
             <a href="http://mitwpu.edu.in/">
-            <img src="/images/mit-1.jpg"></a>
+            <img src="/images/mit-1.jpg" width="100" height="100"></a>
         </td>
         <td>
             <a href="http://nagpuruniversity.ac.in/">
-            <img src="/images/nag_uni.png"></a>
+            <img src="/images/nag_uni.png" width="100" height="100"></a>
         </td>
     </tr>
     <tr>
@@ -63,11 +63,11 @@ My PhD research receives funding from the Government of India under the scheme o
     <tr>
         <td>
             <a href="http://nosmsje.gov.in/">
-            <img src="/images/india.jpg"></a>
+            <img src="/images/india.jpg" width="100" height="100"></a>
         </td>
         <td>
             <a href="http://www.capgemini.com/in-en/careers/lets-connect/our-offices/capgemini-pune/">
-            <img src="/images/cg-1.jpeg"></a>
+            <img src="/images/cg-1.jpeg" width="100" height="100"></a>
         </td>
     </tr>
     <tr>

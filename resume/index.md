@@ -6,5 +6,5 @@ modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 ---
 
-My latest resume: [Here](/reports/bhushan.pdf)  
+My latest resume: [Here](/assets/Bhushan_Atote.pdf)  
 *Updated: April 07, 2023*

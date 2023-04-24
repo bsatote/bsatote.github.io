@@ -29,7 +29,7 @@ owner:
   school: University of Warwick
   place: Coventry, England, UK
   bio: "PhD candidate<br/>Warwick&#13;&#10;Coventry, UK"
-  email: bhushan.atote@warwick.ac.uk
+  University: https://warwick.ac.uk/fac/sci/dcs/people/u2191514/
   disqus-shortname:
   twitter: BhushannSAtote
   facebook: #username
@@ -56,7 +56,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-  scholar: #username
+  scholar: citations?view_op=search_authors&mauthors=bhushan+atote&hl=en&oi=ao
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

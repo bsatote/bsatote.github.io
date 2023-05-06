@@ -8,7 +8,7 @@ comments: false
 
 Hi!
 
-I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/siplab/) at the [University of Warwick](https://warwick.ac.uk/), under the supervision of [Dr. Victor Sanchez](https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html). My research interests are focused on Machine Learning, Explainable Artificial Intelligence, and Computer Vision. 
+I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/siplab/) at the [University of Warwick](https://warwick.ac.uk/fac/sci/dcs/people/u2191514), under the supervision of [Dr. Victor Sanchez](https://www.dcs.warwick.ac.uk/~vsanchez/Victor_Sanchez/Victor_Sanchez.html). My research interests are focused on Machine Learning, Explainable Artificial Intelligence, and Computer Vision. 
 
 My PhD research receives funding from the Government of India under the scheme of [National Overseas Scholarship](https://nosmsje.gov.in/). I obtained my master's degree from [Maharashtra Institute of Technology, SPPU, India](https://mitwpu.edu.in/), and completed my bachelor's studies at [Nagpur University, India](https://nagpuruniversity.ac.in/).
 
@@ -57,7 +57,7 @@ My PhD research receives funding from the Government of India under the scheme o
     </tr>
     <tr>
         <td>The University of Warwick<br>2022 - Present</td>
-        <td>MIT Pune, Inida<br>2014-2016</td>
+        <td>MIT Pune, India<br>2014-2016</td>
         <td>RTMNU, India<br>2009-2013</td>
     </tr>
     <tr>
@@ -72,6 +72,6 @@ My PhD research receives funding from the Government of India under the scheme o
     </tr>
     <tr>
         <td>National Overseas Scholarship, India</td>
-        <td>CapGemini, Inida<br>2018-2021</td>
+        <td>CapGemini, India<br>2018-2021</td>
     </tr>
 </table>

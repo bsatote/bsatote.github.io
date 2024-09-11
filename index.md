@@ -16,7 +16,7 @@ My PhD research receives funding from the Government of India under the scheme o
 Reviewer:
 <a href="https://icml.cc/"> ICML 2024</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97"> IEEE Signal Processing Letters 2024 </a> 
 <br>
-Editor:<br> 
+Editor:
 <a href="https://warwick.ac.uk/fac/cross_fac/academic-development/pgrteachers/jppp/"> Journal of PGR Pedagogic Practice Issue 3, 2023 </a>
 
 

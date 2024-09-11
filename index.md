@@ -12,6 +12,10 @@ I am a PhD candidate at [SIP Lab](https://warwick.ac.uk/fac/sci/dcs/research/sip
 
 My PhD research receives funding from the Government of India under the scheme of [National Overseas Scholarship](https://nosmsje.gov.in/). I obtained my master's degree from [Maharashtra Institute of Technology, SPPU, India](https://mitwpu.edu.in/), and completed my bachelor's studies at [Nagpur University, India](https://nagpuruniversity.ac.in/).
 
+<b>Academic Activities:</b>
+Reviewer: <a href="https://icml.cc/"> ICML 2024</a>, <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97"> IEEE Signal Processing Letters 2024 </a>
+Editor: <a href="https://warwick.ac.uk/fac/cross_fac/academic-development/pgrteachers/jppp/"> Journal of PGR Pedagogic Practice Issue 3, 2023 </a>
+
 
 ----
 

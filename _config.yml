@@ -55,7 +55,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-  scholar: citations?view_op=search_authors&mauthors=bhushan+atote&hl=en&oi=ao
+  scholar: citations?user=gP1P9JYAAAAJ&hl=en
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

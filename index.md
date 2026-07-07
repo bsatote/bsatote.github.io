@@ -43,7 +43,6 @@ Editor:
 <tr><td valign="top"><strong>[March 2022]</strong></td><td>Started PhD program at the <a href="https://warwick.ac.uk/fac/sci/dcs/">Department of Computer Science</a>, University of Warwick</td></tr>
 <tr><td valign="top"><strong>[Dec 2021]</strong></td><td>Awarded the <a href="https://nosmsje.gov.in">National Overseas Scholarship</a>, 2021 by the Government of India</td></tr>
 </table>
-  <tr><td>Please visit <a href="https://scholar.google.co.in/citations?user=gP1P9JYAAAAJ&hl=th">google scholar</a> for full publication list</td></tr>
 </div>
 
 <div id="wn-blogs" class="wn-panel">
@@ -61,6 +60,7 @@ Editor:
 <tr><td><a href="https://ieeexplore.ieee.org/document/10208640">Robust Multiview Multimodal Driver Monitoring System Using Masked Multi-Head Self-Attention</a></td><td><i>CVPR 2023</i></td></tr>
 </table>
 </div>
+<tr><td>Please visit <a href="https://scholar.google.co.in/citations?user=gP1P9JYAAAAJ&hl=th">google scholar</a> for full publication list</td></tr>
 </div>
 
 <style>

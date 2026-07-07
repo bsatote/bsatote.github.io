@@ -59,8 +59,8 @@ Editor:
 <tr><td><a href="https://ieeexplore.ieee.org/document/10647799">Enhanced Prototypical Part Network (EPPNet) For Explainable Image Classification Via Prototypes</a></td><td><i>ICIP 2024</i></td></tr>
 <tr><td><a href="https://ieeexplore.ieee.org/document/10208640">Robust Multiview Multimodal Driver Monitoring System Using Masked Multi-Head Self-Attention</a></td><td><i>CVPR 2023</i></td></tr>
 </table>
+  <tr><td>Please visit <a href="https://scholar.google.co.in/citations?user=gP1P9JYAAAAJ&hl=th">google scholar</a> for full publication list</td></tr>
 </div>
-<tr><td>Please visit <a href="https://scholar.google.co.in/citations?user=gP1P9JYAAAAJ&hl=th">google scholar</a> for full publication list</td></tr>
 </div>
 
 <style>

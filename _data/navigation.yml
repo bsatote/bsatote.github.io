@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Research
+  url: /research/
+
+- title: Leisure Activities
+  url: /music/
+
+- title: Resume
+  url: /assets/Bhushan_Atote.pdf
+
+- title: Contact
+  url: /contact/
